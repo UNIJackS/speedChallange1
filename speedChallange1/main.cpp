@@ -6,7 +6,7 @@
 using namespace std;
 
 int goal = 177;
-int numberOfRuns = 10000;
+int numberOfRuns = 1000000;
 int numberOfRolls = 231;
 
 
